@@ -1,0 +1,17 @@
+{
+  "name": "com.kitapyurdu_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "playwright": "^1.34.3"
+  }
+}
